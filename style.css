@@ -1,0 +1,72 @@
+html, body{
+	margin: 0;
+}
+.header{
+    background-color: rgb(248, 227, 200);
+	width:100%;
+	padding: 10px;
+	height: 120px;
+}
+
+.nav1{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	margin-top: 20px;
+	margin: 0 auto;
+	background-color: rgb(255, 210, 151);
+	padding: 10px;
+	font-size: large;
+	text-align: left;
+	padding-top: 20px;
+}
+
+.table{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	border:3px solid black;
+	border-collapse: collapse;
+}
+
+#color1{
+	background-color: cadetblue;
+}
+
+#color2{
+	background-color: chocolate;
+}
+
+th{
+	border:3px solid black;
+	font-size: 18px;
+	padding: 10px;
+}
+
+td{
+	border:3px solid black;
+	text-align: center;
+	padding: 10px;
+}
+
+#Логотип{
+	float:left;
+	margin: 10px;
+	width: 100px;
+	height:100px;
+	border-radius: 50%;
+}
+
+#Текст{
+	background-color:rgb(248, 227, 200);
+	font-size: x-large;
+	padding: 10px;
+}
+
+.footer{
+	background-color: rgb(248, 227, 200);
+	width:100%;
+	padding: 10px;
+	height: 120px;
+	font-size: x-large;
+}
